@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://varshakishore.github.io//sitemap.xml
